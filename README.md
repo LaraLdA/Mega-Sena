@@ -3,7 +3,7 @@
 
 A tabela foi construída considerando-se os 10 números mais sorteados por bola e depois a ocorrência em mais de uma bola. Ou seja,a tabela mostra os números mais sorteados por bola e por frequência de ocorrência em mais de uma bola.
 
-Exemplo: o número 10 está em primeiro colocado, já que entre os números mais sorteados ele é o mais recorrente quando se considera a frequência de sorteio em todas as bolas,ele sai muito na bola 2, 4, 5 e 6.
+Exemplo: o número 10 está em primeiro colocado, já que entre os números mais sorteados ele é o mais recorrente quando se considera a frequência de sorteio em todas as bolas. Sendo frequente nas bolas 2, 4, 5 e 6.
 
 
 
