@@ -1,4 +1,5 @@
-# Tabela gerada com o notebook postado.
+### Análise dos números mais sorteados na Mega-sena
+#### Tabela gerada com o notebook postado.
 
 A tabela foi construída considerando-se os 10 números mais sorteados por bola e depois a ocorrência em mais de uma bola. Ou seja,a tabela mostra os números mais sorteados por bola e por frequência de ocorrência em mais de uma bola.
 
